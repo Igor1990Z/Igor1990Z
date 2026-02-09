@@ -19,5 +19,6 @@
 
 
 
-Ссылки на пример артифактов:
+Ссылки на артифакты:
 - [баг-репорт](https://docs.google.com/spreadsheets/d/1Hd519XdfrhKspa-GG5w0PxCu35vPA8YznkcWzQJ0T50/edit?usp=sharing)
+- [резюме](https://taganrog.hh.ru/resume/f4e9d789ff0fe5bb990039ed1f694358474257)
