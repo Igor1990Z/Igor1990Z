@@ -20,4 +20,4 @@
 
 
 Ссылки на пример артифактов:
-- [баг-репорт] (https://docs.google.com/spreadsheets/d/1Hd519XdfrhKspa-GG5w0PxCu35vPA8YznkcWzQJ0T50/edit?usp=sharing)
+- <баг-репорт https://docs.google.com/spreadsheets/d/1Hd519XdfrhKspa-GG5w0PxCu35vPA8YznkcWzQJ0T50/edit?usp=sharing>
